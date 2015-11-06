@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Way Down]]></title>
         <description><![CDATA[The Way Down]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-way-down/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 19:46:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 Nov 2015 19:55:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-way-down/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffc3d6c8-7b95-406c-acf2-363f435d3ff1.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/the-way-down/bcf12648-29c2-4042-8aec-ebcb32c4dc37/index.html</link>
+            <guid isPermaLink="false">bcf12648-29c2-4042-8aec-ebcb32c4dc37</guid>
+            <pubDate>Fri, 06 Nov 2015 19:55:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b831582-98df-4e11-b1fe-e5b83aa01b2d.JPG">]]></description>
-            <link>undefined2036bcd2-67b2-4c0f-b477-3c01d9023838/index.html</link>
+            <link>https://thegrid.ai/the-way-down/2036bcd2-67b2-4c0f-b477-3c01d9023838/index.html</link>
             <guid isPermaLink="false">2036bcd2-67b2-4c0f-b477-3c01d9023838</guid>
             <pubDate>Fri, 06 Nov 2015 19:46:08 GMT</pubDate>
         </item>
