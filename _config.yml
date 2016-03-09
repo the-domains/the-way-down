@@ -1,28 +1,40 @@
-name: The Way Down
-favicon: null
-layout_spectrum: 0.3127290129195899
-typography_spectrum: 0.8579761078581214
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.3127290129195899
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.8542014788836241
+  brandStrength: 0.4375
+  rhythmicContrast: 0.03659296478144825
   brandColors:
     - '#252528'
     - '#5d6671'
     - '#feffff'
     - '#8895a7'
     - '#c2c3c6'
-  brandStrength: 0.4375
   lightness: 0.4786434546113014
-  saturation: 0.8542014788836241
-  rhythmicContrast: 0.036592964781448245
 purpose: []
+favicon: null
+name: The Way Down
+typography_spectrum: 0.8579761078581214
