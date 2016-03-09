@@ -1,7 +1,7 @@
 name: Incentive Pictures
 favicon: null
 layout_spectrum: 0.3127290129195899
-typography_spectrum: 0.8579761078581214
+typography_spectrum: 0.66664
 collections:
   - index:
       paginate: true
