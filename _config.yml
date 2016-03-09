@@ -1,18 +1,7 @@
-color:
-  brandStrength: 0.4375
-  saturation: 0.8542014788836241
-  brandColors:
-    - '#252528'
-    - '#5d6671'
-    - '#feffff'
-    - '#8895a7'
-    - '#c2c3c6'
-  lightness: 0.4786434546113014
-  rhythmicContrast: 0.03659296478144825
-analytics:
-  facebook: null
-  google: null
-  twitter: null
+name: Incentive Pictures
+favicon: null
+layout_spectrum: 0.3127290129195899
+typography_spectrum: 0.8579761078581214
 collections:
   - index:
       paginate: true
@@ -29,12 +18,23 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: null
-layout_spectrum: 0.3127290129195899
-purpose: []
-name: Incentive Pictures
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.8579761078581214
+color:
+  brandColors:
+    - '#252528'
+    - '#5d6671'
+    - '#feffff'
+    - '#8895a7'
+    - '#c2c3c6'
+  brandStrength: 0.4375
+  lightness: 0.4786434546113014
+  saturation: 0.8542014788836241
+  rhythmicContrast: 0.03659296478144825
+purpose: []
