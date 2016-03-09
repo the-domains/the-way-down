@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Incentive Pictures]]></title>
         <description><![CDATA[Incentive Pictures]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.incentivepictures.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 15:18:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 20:32:19 GMT</lastBuildDate>
+        <atom:link href="http://www.incentivepictures.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Incentive Pictures</p>]]></description>
+            <link>http://www.incentivepictures.com/89afe527-435b-487f-b544-0f17dade3d56/index.html</link>
+            <guid isPermaLink="false">89afe527-435b-487f-b544-0f17dade3d56</guid>
+            <pubDate>Wed, 09 Mar 2016 20:30:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75cb97b9-838a-48d6-95ea-71adb04ec1e4.jpg">]]></description>
-            <link>undefined95b4811d-b423-4ca4-887b-934929942ba4/index.html</link>
+            <link>http://www.incentivepictures.com/95b4811d-b423-4ca4-887b-934929942ba4/index.html</link>
             <guid isPermaLink="false">95b4811d-b423-4ca4-887b-934929942ba4</guid>
             <pubDate>Wed, 09 Mar 2016 15:18:04 GMT</pubDate>
         </item>
