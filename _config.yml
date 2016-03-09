@@ -14,6 +14,7 @@ collections:
       format: rss
       path: /rss.xml
       number: 10
+title: Incentive Pictures
 cta:
   domain: null
   bucket: null
