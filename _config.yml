@@ -1,29 +1,6 @@
-name: Incentive Pictures
-opengraph:
-  image: null
-  type: null
-  appId: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-layout_spectrum: 0.3127290129195899
-cta:
-  bucket: null
-  version: null
-  domain: null
 color:
-  saturation: 0.8542014788836241
   brandStrength: 0.4375
-  rhythmicContrast: 0.03659296478144825
+  saturation: 0.8542014788836241
   brandColors:
     - '#252528'
     - '#5d6671'
@@ -31,10 +8,33 @@ color:
     - '#8895a7'
     - '#c2c3c6'
   lightness: 0.4786434546113014
-purpose: []
-favicon: null
-typography_spectrum: 0.8579761078581214
+  rhythmicContrast: 0.03659296478144825
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
+collections:
+  - index:
+      paginate: true
+      path: /
+      number: 15
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+layout_spectrum: 0.3127290129195899
+purpose: []
+name: Incentive Pictures
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8579761078581214
